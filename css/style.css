@@ -147,7 +147,7 @@ aside .subCont ul li:hover {
 }
 .sec2 .cardMem .rotateimg {
   border-bottom: none;
-  border-bottom: 2px solid #df0021;
+  border: 3px solid #df0021;
 }
 .sec2 .cardMem span {
   display: block;
