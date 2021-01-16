@@ -139,7 +139,7 @@ aside .subCont ul li:hover {
 .sec2 .cardMem .memPhoto {
   width: 200px;
   height: 200px;
-  border-bottom: 2px solid #df0021;
+  border: 3px solid #df0021;
   filter: grayscale(100%);
 }
 .sec2 .cardMem .memPhoto:hover {
