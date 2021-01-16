@@ -146,7 +146,6 @@ aside .subCont ul li:hover {
   filter: grayscale(0);
 }
 .sec2 .cardMem .rotateimg {
-  transform: rotate(90deg);
   border-bottom: none;
   border-right: 2px solid #df0021;
 }
